@@ -1,5 +1,5 @@
 {
-  "name": "v13uptimev3",
+  "name": "deep-ajar-badger",
   "version": "1.0.0",
   "description": "muhammet ali v13 uptime Botu",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "author": "Muhammet ali",
   "license": "MIT",
-  "homepage": "https://github.com/muhammet /v13uptimev2",
+  "homepage": "https://glitch.com/edit/#!/deep-ajar-badger",
   "dependencies": {
     "@discordjs/rest": "^0.3.0",
     "discord-api-types": "^0.31.1",
